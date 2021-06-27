@@ -1,0 +1,22 @@
+{
+  "name": "MelonNether",
+  "author": "_Melon_Boss_",
+  "positionX": "8",
+  "date": "§8[§4Datum§8] §c%s",
+  "server": "§8[§4Server§8] §c%s",
+  "cpuUsage": "§8[§4CPU§8] §c%s%",
+  "serverVersion": "§8[§4Server Version§8] §c%s",
+  "memory": "§8[§4Memory§8] §c%s§8/§c%eMB §8(§c%a%§8)",
+  "ping": "§8[§4Ping§8] §c%s",
+  "fps": "§8[§4FPS§8] §c%s",
+  "countdown": "§8[§4Countdown§8] §c%s",
+  "biom": "§8[§4Biom§8] §c%s",
+  "clock": "§8[§4Uhrzeit§8] §c%s",
+  "lookingAt": "§8[§4Block§8] §c%s",
+  "ign": "§8[§4IGN§8] §c%s",
+  "lag": "§8[§4Lag§8] §c%s",
+  "tps": "§8[§4TPS§8] §c%s",
+  "online": "§8[§4Online§8] §c%s",
+  "loadedEntitys": "§8[§4LoadedEntities§8] §c%s",
+  "position": "§8[§4%c§8] §c%s"
+}

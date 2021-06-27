@@ -1,0 +1,22 @@
+{
+  "name": "EaZy",
+  "author": "Bugisoft",
+  "positionX": "8",
+  "date": "§6Datum: §a%s",
+  "server": "§6Server: §a%s",
+  "cpuUsage": "§6CPU: §a%s%",
+  "serverVersion": "§6Server Version: §a%s",
+  "memory": "§6Memory: §a%s/%eMB (%a%)",
+  "ping": "§6Ping: §a%s",
+  "fps": "§6FPS: §a%s",
+  "countdown": "§6Countdown: §a%s",
+  "biom": "§6Biom: §a%s",
+  "clock": "§6Uhrzeit: §a%s",
+  "lookingAt": "§6Block: §a%s",
+  "ign": "§6IGN: §a%s",
+  "lag": "§6Lag: §a%s",
+  "tps": "§6TPS: §a%s",
+  "online": "§6Online: §a%s",
+  "loadedEntitys": "§6LoadedEntitys: §a%s",
+  "position": "§6%c: §a%s"
+}

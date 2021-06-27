@@ -1,0 +1,22 @@
+{
+  "name": "Cipher",
+  "author": "Bugisoft",
+  "positionX": "8",
+  "date": "§8[§9Datum§8] §3%s",
+  "server": "§8[§9Server§8] §3%s",
+  "cpuUsage": "§8[§9CPU§8] §3%s%",
+  "serverVersion": "§8[§9Server Version§8] §3%s",
+  "memory": "§8[§9Memory§8] §3%s§8/§3%eMB §8(§3%a%§8)",
+  "ping": "§8[§9Ping§8] §3%s",
+  "fps": "§8[§9FPS§8] §3%s",
+  "countdown": "§8[§9Countdown§8] §3%s",
+  "biom": "§8[§9Biom§8] §3%s",
+  "clock": "§8[§9Uhrzeit§8] §3%s",
+  "lookingAt": "§8[§9Block§8] §3%s",
+  "ign": "§8[§9IGN§8] §3%s",
+  "lag": "§8[§9Lag§8] §3%s",
+  "tps": "§8[§9TPS§8] §3%s",
+  "online": "§8[§9Online§8] §3%s",
+  "loadedEntitys": "§8[§9LoadedEntities§8] §3%s",
+  "position": "§8[§9%c§8] §3%s"
+}

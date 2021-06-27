@@ -1,0 +1,22 @@
+{
+  "name": "Labymod",
+  "author": "Bugisoft",
+  "positionX": "8",
+  "date": "§7[§6Datum§7] §f%s",
+  "server": "§7[§6Server§7] §f%s",
+  "cpuUsage": "§7[§6CPU§7] §f%s%",
+  "serverVersion": "§7[§6Server Version§7] §f%s",
+  "memory": "§7[§6Memory§7] §f%s/%eMB (%a%)",
+  "ping": "§7[§6Ping§7] §f%s",
+  "fps": "§7[§6FPS§7] §f%s",
+  "countdown": "§7[§6Countdown§7] §f%s",
+  "biom": "§7[§6Biom§7] §f%s",
+  "clock": "§7[§6Uhrzeit§7] §f%s",
+  "lookingAt": "§7[§6Block§7] §f%s",
+  "ign": "§7[§6IGN§7] §f%s",
+  "lag": "§7[§6Lag§7] §f%s",
+  "tps": "§7[§6TPS§7] §f%s",
+  "online": "§7[§6Online§7] §f%s",
+  "loadedEntitys": "§7[§6LoadedEntities§7] §f%s",
+  "position": "§7[§6%c§7] §f%s"
+}
